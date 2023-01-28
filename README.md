@@ -5,8 +5,8 @@
 <a href = "mailto:mecdillan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leonardodillan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-#### - 🔭 Atualmente trabalho como Estagiário na Stefanini Brasil.
-#### - 🌱 Cursando Análise e Desenvolvimento de Sistemas
+#### - 🔭 Estagiário na Stefanini Brasil
+#### - 🌱 Cursando 3º semestre em Análise e Desenvolvimento de Sistemas
 
 ![Dillan GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardodillan&show_icons=true&theme=dracula&count_private=true)
 
