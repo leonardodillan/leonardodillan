@@ -1,6 +1,6 @@
 <img src="https://octodex.github.com/images/spidertocat.png" width="300px" align="right" alt="fantasma">
 
-## Olá! Eu sou o Leonardo Dillan🖐️
+## Olá! Eu sou Leonardo Dillan🖐️
 
 <a href = "mailto:mecdillan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leonardodillan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
